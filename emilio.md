@@ -1,4 +1,4 @@
-# Cool kids + Hritika suuuure
+# Cool kids 
 
 ## Fish :football: :beers:
 ### Background
