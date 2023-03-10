@@ -19,7 +19,9 @@ _Please insert student status right here_
 |Basketball|Los Angeles Lakers|NBA
  
 ### Favorite food
-- Tacos al pator.
+- Tacos al pastor.
+
+### Alergies
 ~~- Shrimp~~
 
 ### Some repos
