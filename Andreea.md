@@ -37,7 +37,7 @@ int Age22;
 
 #### 
 
-My favourite equation iss:
+My favourite equation is 💖:
 
 $$ 2x = {-2 + 3x} $$
 
