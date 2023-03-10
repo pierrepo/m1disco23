@@ -6,10 +6,15 @@ My name is **Emilio**, I come from Guadalajara, Mexico and I am a Financial Engi
 
 _Please insert student status right here_
 ### Hobbies 
-```   
-   -> Playing sports. 
-    -> Hanging out with friends.
-    -> Tasting new beers.
+  
+1. Playing sports. 
+2. Hanging out with friends.
+3. Tasting new beers.
+
+```SQL
+select name, alcohol, type_beer
+from beers
+where name = 'Tripel Karmeliet'
 ```
     
 | Sport| Team | League |
@@ -20,6 +25,8 @@ _Please insert student status right here_
  
 ### Favorite food
 - Tacos al pastor.
+- Carbonara.
+- Open to new suggestions.
 
 ### Alergies
 ~~- Shrimp~~
