@@ -1,4 +1,4 @@
-## Romaric's Space :Ghost:
+## Romaric's Space 👻
 
 ### About 
 Here you go! I am *Romaric Sallustre* from India. I got my backround in Instrumentation and Control Engineering.
@@ -30,5 +30,5 @@ Here you go! I am *Romaric Sallustre* from India. I got my backround in Instrume
 
 $$ (a+b)^2 = a^2 + ab + b^2 $$
 
-#### Everything for Learning GitHub!!!!
-![](https://s3.hedgedoc.org/demo/uploads/54511e06-793e-4723-ac8a-ca4a1911a155.png)
+## Everything for Learning GitHub!!!!
+
