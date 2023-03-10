@@ -21,7 +21,7 @@
 | Japanese | Intermediate | "こんにちは世界!"    |
 | Dutch    | Beginner     | "Hallo, Wereld"      |
 
-I really like  ==good coffee==.
+I really like  *good coffee*.
 
 Date Ideas-
 : Beach picnics.
