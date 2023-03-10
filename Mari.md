@@ -8,15 +8,14 @@
 ## Hello, I am from ***Siberia***, Russia.
 ![Snow](https:////media.giphy.com/media/l2JIaYp6P3WT5Ybu0/giphy.gif)
 I did my bachelor in **Informatics and Computer Science** :computer:.
-#### I join this [git](https://git-scm.com) training, because I want 
-_learn more how to use git_.
+#### I join this [git](https://git-scm.com) training, because I want _learn more how to use git_.
 `git pull, add, commit & push`
 
 I like to play the piano, swim and dance.
 My lovely groups are: 
-- [x]Arctic Monkeys, 
-- [x]Green Day, 
-- [x]Imagine Dragons.
+- [x] Arctic Monkeys, 
+- [x] Green Day, 
+- [x] Imagine Dragons.
 >My lovely *type of music* - jazz, blues. :musical_keyboard:
 >>I also love __classical music__ 
 
@@ -51,9 +50,7 @@ $\begin{multline*}
 	p(x) = (a+b)^2
 	\end{multline*}$
     
-I like tort 3 chokolate, here is a 
-[recipe](https://www.youtube.com/watch?v=gh2ekOIvGBg)
+I like tort 3 chokolate, here is a [recipe](https://www.youtube.com/watch?v=gh2ekOIvGBg)
 
-Cake 
-![CakePhotoLink](https://cookinglsl.com/wp-content/uploads/2014/04/triple-chocolate-mousse-cake-3-1.jpg)
+Cake ![CakePhotoLink](https://cookinglsl.com/wp-content/uploads/2014/04/triple-chocolate-mousse-cake-3-1.jpg)
 
