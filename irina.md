@@ -34,7 +34,7 @@ I enjoy: 🦎
 
 I like to bake bread on my free time!
 
-**Oh and I really like animated GIFs  :grimacing:**
+**Oh and I really like animated GIFs  ** :grimacing:
 
 ![](https://media2.giphy.com/media/cnhpl4IeYgU7MCBdV2/giphy.gif?cid=ecf05e471klj0408r45cf56bavvka178wnjfqja2mg2kmwvv&rid=giphy.gif&ct=g)
 
