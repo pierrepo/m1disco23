@@ -80,4 +80,8 @@ singer2.sing_chorus()
 singer1.sing_bridge()
 singer2.sing_chorus()
 ```
+<<<<<<< HEAD
 ## epic prank
+=======
+## I'm the lovely delegate of the class
+>>>>>>> 8e062b744766317d7a91e747e6ffb7e000188d79
