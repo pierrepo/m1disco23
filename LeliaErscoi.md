@@ -23,10 +23,11 @@
 
 I really like  **good coffee**.
 
-Date Ideas-
-    1. Beach picnics. \\
-    2. Volleyball in the parc. \\
-    3. Drunk geocaching. \\
+<ul> Date Ideas-
+    <li>Beach picnics. </li>
+    <li>Volleyball in the parc. </li>
+    <li>Drunk geocaching. </li>
+</ul>    
 
 ### _I have a tattoo of Bayes Formula_
 $P(A|B)= \frac{P(B|A) \dot P(A)}{P(B)}$
