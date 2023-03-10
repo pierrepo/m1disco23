@@ -4,7 +4,7 @@
 
 ### Short description
 
-I am a 22 Master's student. I am from Romania. I did my *Bachelor's* in **Cybernetics Economics**.
+I am a 22 Master's student. I am from Romania. I did my *Bachelor's* in **Cybernetics Economics** in 2019.
 
 [Here](https://github.com/andreeastroia) is a link of my Github if you want to check my work:
 
