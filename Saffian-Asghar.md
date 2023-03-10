@@ -35,7 +35,7 @@ You can clone the repo using :
 
 ```Javascript
     for(i = 0; i < 10 ; i++){
-        console.log("Value i: " + i)
+        console.log("Value i: " + i);
     }
 ```
 
