@@ -15,6 +15,7 @@ I have two projects concurrently right now:
 
 ### Favorite Food
 ![Pizza Img](https://images.getrecipekit.com/20210915155518-233856804_993969674700404_992064296083479826_n.jpeg?aspect_ratio=4:3&quality=100&)
+:grin:
 
 ### Favorite Uni Project 
 I worked with [Emilio Espionosa Sanchez](https://www.linkedin.com/in/emilio-espinosa-sanchez/) during the first semester of my master's course on this very interesting project:    
@@ -24,4 +25,19 @@ You can clone the repo using :
 
  <code>git clone https://github.com/Saffian-Asghar/NBA_Network_Analysis.git</code>
 
+ ### Let's sum some numbers?
+
  $$\sum_{i=1}^n X_i$$
+
+ ### Some code
+
+```
+    for(int i = 0; i < 10 ; i++){
+        console.log("Value i: " + i)
+    }
+```
+
+
+
+
+
