@@ -6,7 +6,9 @@
 
 # Mari
 ## Hello, I am from ***Siberia***, Russia.
-![Snow](https:////media.giphy.com/media/l2JIaYp6P3WT5Ybu0/giphy.gif)
+
+![Snow](https://media.giphy.com/media/l2JIaYp6P3WT5Ybu0/giphy.gif)
+
 I did my bachelor in **Informatics and Computer Science** :computer:.
 #### I join this [git](https://git-scm.com) training, because I want _learn more how to use git_.
 `git pull, add, commit & push`
