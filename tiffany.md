@@ -23,12 +23,11 @@ My 3 favorite desserts are
    2. flan :custard: 
    3. key lime pie :cake: (i can't find the pie emoji)
 
-## what i've been listening to ##
-|  Name |      |
+## what i've been listening to recently ##
+|  A R T I S T |  s o n g    |
 |-------|-----------|
-| Lake Street Dive  |  |
-|  |  |
-|  |  |
-
+| Lake Street Dive  | 'Nick of Time' |
+| thuy | 'girls like me don't cry' |
+|MF Doom| 'Arrowroot'|
 ## Here's an equation
 $$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
