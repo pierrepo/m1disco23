@@ -41,6 +41,6 @@ def MoreAboutMe():
 * 7sos
 * AC/DC
 * My PhD supervisor hates him, so harry styles 
-> :memo: **Food :**    
+> :memo: **Food :**      
 *![image alt](https://media1.giphy.com/media/3og0IxeB7Hx7JBnhmM/giphy.gif)
 * ![image alt](https://media.tenor.com/JBp6ldD5Br4AAAAM/raclette.gif)
