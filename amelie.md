@@ -13,7 +13,7 @@ Other things I like to do:
 ## Other Information
 if you want to check out my GitHub, go to my [Git repository](https://github.com/amelie106) or just run the following command to look at my most recent project:
 
-`git clone git@github.com:amelie106/datascience.git`
+`$ git clone git@github.com:amelie106/datascience.git`
 
 ![Alt Text](https://media.giphy.com/media/alvlhqPcBSNDs4wE3P/giphy.gif)
 

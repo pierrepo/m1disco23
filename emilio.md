@@ -7,7 +7,7 @@ My name is **Emilio**, I come from Guadalajara, Mexico and I am a Financial Engi
 _Please insert student status right here_
 ### Hobbies 
 ```   
-   -> Playing sports. 
+    -> Playing sports. 
     -> Hanging out with friends.
     -> Tasting new beers.
 ```
@@ -20,6 +20,8 @@ _Please insert student status right here_
  
 ### Favorite food
 - Tacos al pastor.
+- Carbonara.
+- Open to new suggestions.
 
 ### Alergies
 ~~- Shrimp~~
