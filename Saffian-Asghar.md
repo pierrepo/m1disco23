@@ -3,15 +3,17 @@ I am from Pakistan and I have a Bachelor's degree in **Electrical Engineering**.
 ### Hobbies
 - Gaming
 - Cooking
+- Gardening
 ### Internship
 I am working as full stack intern at *Schlumberger* (SLB) in DrillOps Teams. (lowkey flex)
 
 I have two projects concurrently right now:
 
-| Name| Deadline | Technology |Purpose|
-|------------|----------|------------|-------|
-|Plugin Governance|31/03/2023|MEAN Stack|Streamline and Automate the process of software code deployment through a new web application using Azure DevOps and Ticketing.|
-|Store|06/08/2023|Angular 14 with .NET Core 6|Make a application store that is similar to IOS/Android Play Store for SLB's customers to see the available software plugins.|
+| Name | Type | Deadline | Technology |Purpose| 
+|------------|------------|----------|------------|-------|
+|Plugin Governance|Work|31/03/2023|MEAN Stack|Streamline and Automate the process of software code deployment through a new web application using Azure DevOps and Ticketing.|
+|Store|Work|06/08/2023|Angular 14 with .NET Core 6|Make a application store that is similar to IOS/Android Play Store for SLB's customers to see the available software plugins.|
+|Learn French| Personal | $\infty$ | Dark Magic | Living |
 
 ### Favorite Food
 ![Pizza Img](https://images.getrecipekit.com/20210915155518-233856804_993969674700404_992064296083479826_n.jpeg?aspect_ratio=4:3&quality=100&)
@@ -31,8 +33,8 @@ You can clone the repo using :
 
  ### Some code
 
-```
-    for(int i = 0; i < 10 ; i++){
+```Javascript
+    for(i = 0; i < 10 ; i++){
         console.log("Value i: " + i)
     }
 ```

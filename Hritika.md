@@ -2,12 +2,12 @@
 ![Alt Text](https://media0.giphy.com/media/er7RmM5FjvHHajU8R2/200w.gif?cid=6c09b952rmuq181vppc3ednnfijorbcpt6y2iks3ygvn4ial&rid=200w.gif&ct=g)
  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;***Hi!***.  
-'''python  
+```python  
 def Introduction():
     print("Hello World!")
 
 
-'''  
+```
 I come from India, I am doing a ~~small~~ project at ENS in Computer Vision and NLP. :smile: :speech_balloon:  
 Here's a link to my [Github](https://github.com/hritikakathuria136/Projects).
 | Projects | Domain | Institution |
@@ -19,7 +19,12 @@ Here's a link to my [Github](https://github.com/hritikakathuria136/Projects).
 |Game using augmented reality in Unity to help in the rehabilitation process of stroke survivors|Game Dev|CRI
 
 
-    print("About me!")
+```python  
+def MoreAboutMe():
+    print("Favorites!")
+
+
+```
 ![image alt](https://media.giphy.com/media/zzdRbdk6cey1G/giphy.gif)
 
 > :memo: **Hobbies:**  
@@ -31,10 +36,11 @@ Here's a link to my [Github](https://github.com/hritikakathuria136/Projects).
 * *NLP?* 
 
 
-> :memo: **Favourite Bands/Singers/Food :**  
+> :memo: **Favourite Bands/Singers :**  
 * SHAME
 * 7sos
 * AC/DC
-* My PhD supervisor hates him, so harry styles
+* My PhD supervisor hates him, so harry styles 
+> :memo: **Food :**      
 *![image alt](https://media1.giphy.com/media/3og0IxeB7Hx7JBnhmM/giphy.gif)
 * ![image alt](https://media.tenor.com/JBp6ldD5Br4AAAAM/raclette.gif)
