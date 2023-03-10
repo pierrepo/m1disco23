@@ -25,7 +25,7 @@ This is me when somebody wakes me before the alarm:
 | ----------| ---------------|
 | Amsterdam   |   Sarmale       |
 | Paris  | Pizza         |
-| Sighisoara   | Onlion Soup      |
+| Sighisoara   | Onion Soup      |
 
 #### Code 
 
@@ -37,7 +37,11 @@ int Age22;
 
 #### 
 
-My favourite equation isss:
+My favourite equation iss:
 
 $$ 2x = {-2 + 3x} $$
 
+
+This is me also:
+
+![dd](https://cdn.pixabay.com/photo/2017/09/01/00/15/png-2702691_960_720.png)
