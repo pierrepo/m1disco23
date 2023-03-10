@@ -11,7 +11,7 @@ for idx in range(5):
     print(idx)
 ```
 
-I'm also a father of two. I enjoy to cook at home, mostly indian-style food :yum: 
+I'm also a father of two. I enjoy cooking at home, mostly indian-style food :yum: 
 
 My favourite music artists are:
 
