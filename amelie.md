@@ -39,5 +39,5 @@ $x_1,_2 = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$
 | Smoothie by Lelia   | 10/10       |
 
 
-##### ~~Raisins are NOT delicious.~~
+##### ~~Smoothies are delicious.~~
 

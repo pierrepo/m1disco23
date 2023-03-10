@@ -7,7 +7,7 @@ I am from Pakistan and I have a Bachelor's degree in **Electrical Engineering**.
 ### Internship
 I am working as full stack intern at *Schlumberger* (SLB) in DrillOps Teams. (lowkey flex)
 
-I have two projects concurrently right now:
+I have three projects concurrently right now:
 
 | Name | Type | Deadline | Technology |Purpose| 
 |------------|------------|----------|------------|-------|
@@ -35,7 +35,7 @@ You can clone the repo using :
 
 ```Javascript
     for(i = 0; i < 10 ; i++){
-        console.log("Value i: " + i)
+        console.log("Emilio value i: " + i)
     }
 ```
 
