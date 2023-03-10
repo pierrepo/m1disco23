@@ -12,7 +12,7 @@ _Please insert student status right here_
 3. Tasting new beers.
 
 ```SQL
-select name
+select name, alcohol, type_beer
 from beers
 where name = 'Tripel Karmeliet'
 ```
