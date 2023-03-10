@@ -9,14 +9,21 @@
 
 ## My favorite music groups are: 
 
-1. Imagine Dragons.
+1. Imagine Dragons
+
 ![Imagine Dragons](https://media.giphy.com/media/V9fvI9MHHl2saCfuzJ/giphy.gif)
-2. Sia.
+
+2. Sia
+
 ![Sia](https://media.giphy.com/media/l2Sqeg2IDXbd5of2o/giphy.gif)
-3. Adel.
-![Adel](https://media.giphy.com/media/tON54JfIBqAVkohls7/giphy.gif)
-4. Ludovico Einaudi.
-![I didn't found one for him sadly!!](https://media.giphy.com/media/l3vR3yQePff1586YM/giphy.gif)
+
+3. Adel
+
+[Adel](https://media.giphy.com/media/tON54JfIBqAVkohls7/giphy.gif)
+
+4. Ludovico Einaudi
+
+[I didn't found one for him sadly!!](https://media.giphy.com/media/l3vR3yQePff1586YM/giphy.gif)
 
 ## we did add links for gifs but let's add another link:
 
