@@ -46,6 +46,6 @@ $$f(x) = x^2 - x^\frac{1}{\pi}$$
 ```
 Look! You can see that I didn't put code here.
 ```
-## Conflict from Mari, Now we will try inline code :
+## Conflict from Mari Hello I am Hala again, Now we will try inline code :
 
 `Array.prototype.map()`
