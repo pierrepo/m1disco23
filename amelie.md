@@ -32,11 +32,11 @@ $x_1,_2 = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$
 
 ## Foods and Personal Rating
 
-| Food                | Category     | Rating     |
-| -----------         | -----------  | ------     |
-| Broccoli            | Vegetable    |Very nice   |
-| Raisin              | -            |No          |
-| Smoothie by Lelia   | Delicious    |10/10       |
+| Food                |  Rating     |
+| -----------         |  ------     |
+| Broccoli            | Very nice   |
+| Raisin              | No          |
+| Smoothie by Lelia   | 10/10       |
 
 
 ##### ~~Raisins are NOT delicious.~~
