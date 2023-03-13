@@ -48,9 +48,7 @@ Table test
 | 3 | Windows | Microsoft     |
 
 Example of Equation
-$\begin{multline*}
-	p(x) = (a+b)^2
-	\end{multline*}$
+$$p(x) = (a+b)^2$$
     
 I like tort 3 chokolate, here is a [recipe](https://www.youtube.com/watch?v=gh2ekOIvGBg)
 
