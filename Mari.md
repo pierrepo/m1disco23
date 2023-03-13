@@ -50,6 +50,6 @@ Table test
 Example of Equation
 $$p(x) = (a+b)^2$$
     
-I like tort 3 chokolate, here is a [recipe](https://www.youtube.com/watch?v=gh2ekOIvGBg)
+I like tort 3 chocolate, here is a [recipe](https://www.youtube.com/watch?v=gh2ekOIvGBg)
 
 Cake I am Hala and I am going to make conflict![CakePhotoLink](https://cookinglsl.com/wp-content/uploads/2014/04/triple-chocolate-mousse-cake-3-1.jpg)
